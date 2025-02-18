@@ -7,7 +7,7 @@ The two projects worked toward developing a console application that reads and p
 
 How did you approach the problem? Consider why data structures are important to understand.
 --
-
+I approached completing these projects by referencing examples from the textbook, past assignments, and online articles. Studying these implementations taught me how to implement each data structure myself and write pseudocode accordingly. When I found errors in my pseudocode, I referenced the same materials to find and fix my mistakes. Data structures are important to understand because they give a programmer options, and tailoring software to match its best-fit options is the mark of a strong programmer. Reviewing the advantages and disadvantages of each data structure taught me what to think about when considering future code.
 
 How did you overcome any roadblocks you encountered while going through the activities or project?
 --
@@ -19,4 +19,4 @@ I now know to consider using hash tables and BSTs for projects. I'll also consid
 
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 --
-
+I repeatedly referenced assignments I completed previously in this course to inform work on my projects. It was useful for that code to be readable and adaptable so I could re-use similar logic. When finalizing my code for Project 2, I adapted my pseudocode from one long main() function to a modularized series of functions. This made debugging more streamlined because I could work to find logical issues in each function rather than in just the block for main(). I will continue to write modular code in the future to make it easier to test, debug, and refactor.
