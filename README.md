@@ -3,15 +3,19 @@ A collection of the major work I completed during this course at SNHU.
 
 What was the problem you were solving in the projects for this course?
 --
+The two projects worked toward developing a console application that reads and parses college courses from a .csv file. Project 1 involved pseudocode and Big O runtime analysis while Project 2 involved coding the actual application. The application needed to successfully read a .csv file, parse its lines into separate categories of a structure, store the smaller structures (courses) into a larger overarching structure (binary search tree i.e. BST), and allow the user to view data from any or all courses.
 
 How did you approach the problem? Consider why data structures are important to understand.
 --
 
+
 How did you overcome any roadblocks you encountered while going through the activities or project?
 --
+Calculating Big O runtimes by hand was challenging to understand. It was hard to know if the values assigned to each line were accurate or missing some "bigger picture". I relied on informative videos, the textbook, and the assignment guidelines to calculate Big O runtimes for each data structure and compare them accordingly. It was also hard to know for sure which data structure was better to use-- a hash table or BST. A hash table seemed like the better choice if not for the BST's inherent ordering system, so that was what the choice came down to. I handled coding roadblocks by reading Geeks for Geeks articles and Stack Overflow posts that pointed me in the right direction for specific C++ concepts I needed brushing up on.
 
 How has your work on this project expanded your approach to designing software and developing programs?
 --
+I now know to consider using hash tables and BSTs for projects. I'll also consider any data structure's runtime when choosing the best fit one for a project. It shocked me to find that an algorithm or structure with a slow runtime can take literal years to compute large amounts of data, meaning it's something necessary to pay attention to. These projects have taught me the importance of options and weighing them thoughtfully, since even fast algorithms can have the downside of increased space complexity.
 
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 --
