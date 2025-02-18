@@ -1,6 +1,5 @@
 # CS300-DataStructures_and_Algorithms
 A collection of the major work I completed during this course at SNHU.
---
 
 What was the problem you were solving in the projects for this course?
 --
