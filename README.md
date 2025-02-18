@@ -1,2 +1,2 @@
-# CS300-Analysis_and_Design
+# CS300-DataStructures_and_Algorithms
 A collection of the major work I completed during this course at SNHU.
