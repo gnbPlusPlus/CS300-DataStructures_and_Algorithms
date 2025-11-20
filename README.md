@@ -1,12 +1,12 @@
 # CS300-DataStructures_and_Algorithms
 
-<div style="display:flex; flex-direction:column; align-items:center;">
+<div style="margin:0 0 0 25px">
   <figure>
     <img src="/assets/images/bst1.png">
     <figcaption>Loaded Courses</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/bst2.png">
+    <img src="/assets/images/bst2.png" style="width:575px">
     <figcaption>Sorted List of Courses</figcaption>
   </figure>
   <figure>
