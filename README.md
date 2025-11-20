@@ -6,7 +6,7 @@
     <figcaption>Loaded Bids</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/bst2.png">
+    <img src="/assets/images/bst2.png" style="width:285px">
     <figcaption>Displayed Bids</figcaption>
   </figure>
   <figure>
