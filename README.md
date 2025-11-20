@@ -3,19 +3,15 @@
 <div style="display:flex; flex-direction:column; align-items:center;">
   <figure>
     <img src="/assets/images/bst1.png">
-    <figcaption>Loaded Bids</figcaption>
+    <figcaption>Loaded Courses</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/bst2.png" style="width:285px">
-    <figcaption>Displayed Bids</figcaption>
+    <img src="/assets/images/bst2.png">
+    <figcaption>Sorted List of Courses</figcaption>
   </figure>
   <figure>
     <img src="/assets/images/bst3.png">
-    <figcaption>Find Bid (Pre-removal)</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/images/bst4.png">
-    <figcaption>Find Bid (Post-removal)</figcaption>
+    <figcaption>Displayed Specific Course</figcaption>
   </figure>
 </div>
 
