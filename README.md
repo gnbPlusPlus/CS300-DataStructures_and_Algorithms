@@ -1,5 +1,23 @@
 # CS300-DataStructures_and_Algorithms
-A collection of the major work I completed during this course at SNHU.
+
+<div style="display:flex; flex-direction:column; align-items:center;">
+  <figure>
+    <img src="/assets/images/bst1.png">
+    <figcaption>Loaded Bids</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/bst2.png">
+    <figcaption>Displayed Bids</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/bst3.png">
+    <figcaption>Find Bid (Pre-removal)</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/bst4.png">
+    <figcaption>Find Bid (Post-removal)</figcaption>
+  </figure>
+</div>
 
 What was the problem you were solving in the projects for this course?
 --
